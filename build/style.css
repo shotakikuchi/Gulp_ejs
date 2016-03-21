@@ -1,0 +1,50 @@
+body {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	width: 960px;
+	margin: 0 auto;
+}
+
+body div.main {
+	width: 800px;
+}
+
+body div.sidebar {
+	width: 160px;
+}
+
+.gulp {
+	font-size: 222px;
+}
+
+/*======================================
+
+			サイドバー
+
+=======================================*/
+
+.sidebar ul {
+	margin-bottom: 35px;
+	border: 1px solid #8c8c8c;
+}
+
+.footer {
+	width: 300px;
+	background: #ffffff;
+}
+
+div.main {
+	width: 333px;
+}
+
+.header {
+	width: 300px;
+	background: darkred;
+}
+
+.bbb {
+	width: 333px;
+}
+

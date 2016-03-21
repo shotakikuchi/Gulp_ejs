@@ -1,0 +1,38 @@
+$mainColor: #0069b6;
+
+body {
+  width: 960px;
+  margin: 0 auto;
+  display:flex;
+  div.main {
+    width: 800px;
+  }
+
+  div.sidebar{
+    width:160px;
+  }
+}
+
+.gulp{
+  font-size:222px;
+}
+
+@import "scss/partials/sidebar";
+
+.footer{
+  width:300px;
+  background: #ffffff;
+}
+
+div.main{
+  width:333px;
+}
+
+.header{
+  width:300px;
+  background: darkred;
+}
+
+.bbb{
+  width:333px;
+}
